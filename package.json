@@ -1,0 +1,13 @@
+{
+  "name": "dustindowell.neon-minimap",
+  "title": "Neon",
+  "description": "Neon minimap extension for Brackets.",
+  "homepage": "https://github.com/dustindowell22/neon-minimap-brackets-extension",
+  "version": "1.0.0",
+  "author": "Dustin Dowell (https://github.com/dustindowell22)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.0.0"
+  },
+  "keywords": ["theme", "neon", "dark", "minimap"]
+}
